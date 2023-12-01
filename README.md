@@ -2,7 +2,7 @@
 
 Olá, sou Rodrigo Cezario da Silva. Há mais de dez anos atuo como professor em disciplinas de graduação em cadeiras de Engenharia de Software e de Linguagens de Programação. Minha paixão pela Computação começou aos meus 16 anos, quando tive a oportunidade de fazer o meu primeiro curso na área. Desde então, meu fascínio pela área só aumentou.😍
 
-Atualmente sou Desenvolvedor Full Stack na Compass UOL e leciono na [Unifebe](https://www.unifebe.edu.br/) em Brusque. :)
+Atualmente sou Desenvolvedor Full Stack na Compass UOL. :)
 
 Você pode me encontrar em...
 
